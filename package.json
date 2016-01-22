@@ -1,17 +1,18 @@
 {
   "name": "react24ways",
   "version": "1.0.0",
-  "description": "",
+  "description": "playing with react",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "ejs": "^2.3.4",
-    "express": "^4.13.3",
+    "express": "^4.13.4",
     "history": "^1.17.0",
     "react": "^0.14.6",
     "react-dom": "^0.14.6",
@@ -21,5 +22,13 @@
     "babel-cli": "^6.4.5",
     "babel-preset-es2015": "^6.3.13",
     "babel-preset-react": "^6.3.13"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klauskjeldsen/react-one.git"
+  },
+  "bugs": {
+    "url": "https://github.com/klauskjeldsen/react-one/issues"
+  },
+  "homepage": "https://github.com/klauskjeldsen/react-one#readme"
 }
